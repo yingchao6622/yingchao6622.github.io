@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yingchao6622.github.io</id>
     <title>YingChao6622</title>
-    <updated>2020-04-14T10:44:43.958Z</updated>
+    <updated>2020-08-05T08:46:46.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yingchao6622.github.io"/>
     <link rel="self" href="https://yingchao6622.github.io/atom.xml"/>
@@ -11,47 +11,6 @@
     <logo>https://yingchao6622.github.io/images/avatar.png</logo>
     <icon>https://yingchao6622.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YingChao6622</rights>
-    <entry>
-        <title type="html"><![CDATA[小游戏]]></title>
-        <id>https://yingchao6622.github.io/post/xiao-you-xi/</id>
-        <link href="https://yingchao6622.github.io/post/xiao-you-xi/">
-        </link>
-        <updated>2020-04-04T13:48:52.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="http://t.cn/AisizCcW">投篮</a><br>
-<a href="http://t.cn/E9tsC3p">见缝插针</a><br>
-<a href="http://t.cn/AiOrmbVh">锦上添花</a><br>
-<a href="http://t.cn/A6PyPGrM">见缝插车</a><br>
-<a href="http://t.cn/El9tsC3N">堆木头</a><br>
-<a href="http://t.cn/EGdTQlC">OREOOO</a><br>
-<a href="http://t.cn/A6PyP7Cd">刮腿毛</a><br>
-<a href="http://t.cn/A6PLFX5u">能打多少次</a><br>
-<a href="http://t.cn/RcAimvm">打掉砖块</a><br>
-<a href="http://t.cn/A6PLFX5p">大宝剑</a><br>
-<a href="http://t.cn/A6PLFX5W">十滴水</a><br>
-<a href="http://t.cn/RcAKw8F">友谊的小船说翻就翻</a><br>
-<a href="http://t.cn/A6PLFX50">无尽之湖</a><br>
-<a href="http://t.cn/Ev96Ras">蛇与方块</a><br>
-<a href="http://t.cn/AisiB48U">有多远滚多远</a><br>
-<a href="http://t.cn/A6Pyti4P">羽毛球</a><br>
-<a href="http://t.cn/A6Py5a3Q">彩虹屁</a><br>
-<a href="http://t.cn/RUMpO5R">乌鸦喝水</a><br>
-<a href="http://t.cn/A6PyZq50">擦一擦</a><br>
-<a href="http://t.cn/A6PyZq5o">翻转水瓶</a><br>
-<a href="http://t.cn/A6PyqtYy">磁铁粘粘</a><br>
-<a href="http://t.cn/A6PyLrCb">旋转飞刀</a><br>
-<a href="http://t.cn/A6PyZq5a">守护蛋蛋</a><br>
-<a href="http://t.cn/A6PyZq5K">无敌破坏球</a><br>
-<a href="http://t.cn/A6Pq1Hoj">打泡泡</a><br>
-<a href="http://t.cn/AiuR04G8">纸牌接龙</a><br>
-<a href="http://t.cn/Rtp4QDz">六角拼拼</a><br>
-<a href="http://t.cn/RcciqaX">俄罗斯方块</a><br>
-<a href="http://t.cn/RagxdQ0">捕鸟</a><br>
-<a href="http://t.cn/RVbx3Dz">弹弹球</a><br>
-<a href="http://t.cn/A6PGSCKb">切水果</a><br>
-<a href="http://t.cn/Ea80aIc">汽车华容道</a><br>
-<a href="http://t.cn/A6P5PvvX">搭桥</a></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yingchao6622.github.io/post/hello-gridea/</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yingchao6622.github.io</id>
     <title>YingChao6622</title>
-    <updated>2020-08-26T12:48:10.760Z</updated>
+    <updated>2020-10-26T13:49:16.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yingchao6622.github.io"/>
     <link rel="self" href="https://yingchao6622.github.io/atom.xml"/>
@@ -11,4 +11,23 @@
     <logo>https://yingchao6622.github.io/images/avatar.png</logo>
     <icon>https://yingchao6622.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YingChao6622</rights>
+    <entry>
+        <title type="html"><![CDATA[啥b186]]></title>
+        <id>https://yingchao6622.github.io/post/sha-b186/</id>
+        <link href="https://yingchao6622.github.io/post/sha-b186/">
+        </link>
+        <updated>2020-10-26T13:48:57.000Z</updated>
+        <content type="html"><![CDATA[<p>啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186啥b186</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6622 DNS]]></title>
+        <id>https://yingchao6622.github.io/post/6622-dns/</id>
+        <link href="https://yingchao6622.github.io/post/6622-dns/">
+        </link>
+        <updated>2020-10-26T13:48:01.000Z</updated>
+        <content type="html"><![CDATA[<p>https://r8000.yingchao6622.top:8443/dns-query<br>
+tls://r8000.yingchao6622.top:853</p>
+]]></content>
+    </entry>
 </feed>

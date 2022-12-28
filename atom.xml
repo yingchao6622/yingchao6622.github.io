@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://yingchao6622.github.io</id>
+    <title>yingchao6622</title>
+    <updated>2022-12-28T10:46:23.146Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://yingchao6622.github.io"/>
+    <link rel="self" href="http://yingchao6622.github.io/atom.xml"/>
+    <subtitle>别叫命运背弃我</subtitle>
+    <logo>http://yingchao6622.github.io/images/avatar.png</logo>
+    <icon>http://yingchao6622.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, yingchao6622</rights>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>http://yingchao6622.github.io/post/1/</id>
+        <link href="http://yingchao6622.github.io/post/1/">
+        </link>
+        <updated>2022-12-28T10:19:42.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+</feed>
